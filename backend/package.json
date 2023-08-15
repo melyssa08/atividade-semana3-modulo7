@@ -1,0 +1,19 @@
+{
+  "name": "atividade-semana3-modulo7",
+  "version": "1.0.0",
+  "description": "Fazer uma aplicação web integrada com os serviços EC2 e RDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melyssa08/atividade-semana3-modulo7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melyssa08/atividade-semana3-modulo7/issues"
+  },
+  "homepage": "https://github.com/melyssa08/atividade-semana3-modulo7#readme"
+}

@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #75C7FF;
+    color: #FFF;
+}
+
+h5 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    margin-right: 20px;
+}
+
+h2, button {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+input {
+    border-radius: 50px;
+    background-color: #FFBF75;
+    border: none;
+}
+
+button {
+    border-radius: 50px;
+    border: none;
+    background-color: #525558;
+    color: #FFF;
+    height: 50px;
+}

@@ -1,0 +1,49 @@
+.cadastro {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.box-cadastro {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    background-color: #759EFF;
+    flex-direction: column;
+    align-self: center;
+    width: 50%;
+    border-radius: 50px;
+}
+
+.box-nome-apelido, .box-email-senha,
+.box-idade-telefone, .box-content-title,
+.box-button {
+    display: flex;
+    justify-content: center;
+}
+
+.box-nome-apelido, .box-email-senha,
+.box-idade-telefone {
+    flex-direction: row;
+    width: 80%;
+    align-self: center;
+    justify-content: space-around;
+}
+
+.box-nome, .box-apelido, .box-email, .box-senha,
+.box-idade, .box-telefone {
+    display: flex;
+    width: 50%;
+}
+
+#input-nome, #input-apelido, #input-senha,
+#input-idade, #input-email, #input-telefone {
+    width: 70%;
+}
+
+#button-confirm {
+    width: 25%;
+}

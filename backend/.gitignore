@@ -1,0 +1,40 @@
+# Arquivos e diretórios que devem ser ignorados
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Diretórios gerados
+node_modules/
+dist/
+build/
+
+# Configurações específicas do ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de chave/API
+*.key
+*.pem
+
+# Diretórios e arquivos de dependências de desenvolvimento
+vendor/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos específicos para linguagens de programação (exemplos)
+*.pyc
+*.class
+*.jar
+*.war
+*.dll
+*.exe
